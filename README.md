@@ -1,1 +1,2 @@
-My first standalone readme
+#!/bin/bash
+About bash project
